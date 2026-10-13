@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# QGIS projects and temporary files
+*.qgz~
+*.qgs~
+*.qml~
+*.aux.xml
+
+# Spatial datasets
+*.gpkg
+*.gpkg-shm
+*.gpkg-wal
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.tif
+*.tiff
+*.vrt
+
+# Occurrence exports and logs
+*.csv
+*.txt
+*_debug.*
+occurrence_reviewer_debug.txt
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.vscode/
+.idea/
+
+# Archives created for releases
+*.zip
