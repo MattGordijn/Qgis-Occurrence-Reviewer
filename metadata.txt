@@ -1,0 +1,8 @@
+[general]
+name=Occurrence Reviewer
+qgisMinimumVersion=3.22
+description=Sequential occurrence review with cross-platform shortcuts and GeoPackage export.
+version=0.4.7
+author=Matthew Gordijn and Microsoft Copilot
+category=Vector
+experimental=True
